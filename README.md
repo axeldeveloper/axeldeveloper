@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">
     <a href="https://www.linkedin.com/in/axeldeveloper/">
         <img src="https://ik.imagekit.io/ur6xo9m70i/linkedin_yuB1UqRGg.png" width="40">
@@ -12,7 +10,7 @@
     </a>
 </h1>
 
-👨 18 Years
+👨 33 Years
 
 📔 Systems Analyst
 
@@ -30,6 +28,7 @@
 - Ruby
 - React JS
 - React Native
+- VueJS
 - PHP
 - C# - netcore
 - MySQL
@@ -41,7 +40,7 @@
 - Flutter
 
 <h3 align="center">
-    💻 By: Victor Guirra
+    💻 By: Axel Alexander
 </h3>
 
 <!--
