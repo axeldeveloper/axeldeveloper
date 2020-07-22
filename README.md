@@ -1,3 +1,12 @@
+### Hi there! 😁
+
+<b>My name is Axel Alexander from Brazil (🇧🇷). I've been working as Analystic Developer since 2009 and currently I'm Tech Lead an Developement at SAD/Cogesp. I'm passionate about open source projects, developments so I've created some projects and I've always loved to produce a lot of content during my career.
+
+In my free time like to be with my kids(and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to listen to music (🎵) and eventually I like a beer(IPA) (🍺).
+</b>
+
+Would you like to find me?
+
 <h1 align="center">
     <a href="https://www.linkedin.com/in/axeldeveloper/">
         <img src="https://ik.imagekit.io/ur6xo9m70i/linkedin_yuB1UqRGg.png" width="40">
