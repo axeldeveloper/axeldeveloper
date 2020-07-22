@@ -19,10 +19,6 @@ Would you like to find me?
     </a>
 </h1>
 
-👨 33 Years
-
-📔 Systems Analyst
-
 💻 Love Technology
 
 🚀 Skills:
