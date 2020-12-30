@@ -15,9 +15,13 @@ Would you like to find me?
         <img src="https://ik.imagekit.io/ur6xo9m70i/instagram_UCWwq7G9x.png" width="40">
     </a>
     <a href="https://api.whatsapp.com/send?phone=556793086042&text=Opa%2C%20ol%C3%A1%20Axel!%20Tudo%20bem%3F">
-        <img src="https://ik.imagekit.io/ur6xo9m70i/whatsapp_GcZlNUyVJI.png" width="40">
+        <img src="https://ik.imagekit.io/ur6xo9m70i/whatsapp_GcZlNUyVJI.png" width="40">  
     </a>
 </h1>
+
+<p align="center">
+    <a href="https://github.com/axeldeveloper"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AXEL-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
 
 💻 Love Technology
 
@@ -37,11 +41,13 @@ Would you like to find me?
 - PHP
 - C# - netcore
 - MySQL
-- oracle
+- Oracle
 - MongoDB
 - SqlServer
 - PostgreSQL
 - Angular
+- VueJS
+- Ionic
 - Flutter
 
 <h3 align="center">
