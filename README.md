@@ -25,13 +25,19 @@ Would you like to find me?
 
 
 <p align="center">
-    <a href="https://github.com/axeldeveloper"><img title="Linkedin" src="https://img.shields.io/badge/LINKDIN-AXEL-orange.svg?style=for-the-badge&logo=linkedin"></a>
+    <a href="https://github.com/axeldeveloper"><img title="Linkedin" src="https://img.shields.io/badge/LINKDIN-AXEL-blue.svg?style=for-the-badge&logo=linkedin"></a>
 </p>
+
+<p align="center">
+    <a href="https://github.com/axeldeveloper"><img title="Python" src="https://img.shields.io/badge/EVANGELISTA-PYTHON-blue.svg?style=for-the-badge&logo=python"></a>
+</p>
+
 
 💻 Love Technology
 
 🚀 Skills:
 
+<img title="HTML" src="https://img.shields.io/badge/HTML-blue.svg?style=for-the-badge&logo=HTML">
 - HTML
 - CSS
 - Javascript
