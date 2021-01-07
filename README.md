@@ -23,6 +23,11 @@ Would you like to find me?
     <a href="https://github.com/axeldeveloper"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AXEL-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
+
+<p align="center">
+    <a href="https://github.com/axeldeveloper"><img title="Linkedin" src="https://img.shields.io/badge/LINKDIN-AXEL-orange.svg?style=for-the-badge&logo=linkedin"></a>
+</p>
+
 💻 Love Technology
 
 🚀 Skills:
