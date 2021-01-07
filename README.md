@@ -34,10 +34,16 @@ Would you like to find me?
 
 
 💻 Love Technology
+<img title="HTML" src="https://img.shields.io/badge/HTML-blue.svg?style=for-the-badge&logo=HTML">
+<img title="python" src="https://img.shields.io/badge/EVANGELISTA-PYTHON-blue.svg?style=for-the-badge&logo=python">
+<img title="go" src="https://img.shields.io/badge/EVANGELISTA-GOLANF-blue.svg?style=for-the-badge&logo=go">
+<img title="javascript" src="https://img.shields.io/badge/EVANGELISTA-javascript-blue.svg?style=for-the-badge&logo=javascript">
+
+
 
 🚀 Skills:
 
-<img title="HTML" src="https://img.shields.io/badge/HTML-blue.svg?style=for-the-badge&logo=HTML">
+
 - HTML
 - CSS
 - Javascript
