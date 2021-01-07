@@ -28,16 +28,18 @@ Would you like to find me?
     <a href="https://github.com/axeldeveloper"><img title="Linkedin" src="https://img.shields.io/badge/LINKDIN-AXEL-blue.svg?style=for-the-badge&logo=linkedin"></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/axeldeveloper"><img title="Python" src="https://img.shields.io/badge/EVANGELISTA-PYTHON-blue.svg?style=for-the-badge&logo=python"></a>
-</p>
 
 
 💻 Love Technology
-<img title="HTML" src="https://img.shields.io/badge/HTML-blue.svg?style=for-the-badge&logo=HTML">
-<img title="python" src="https://img.shields.io/badge/EVANGELISTA-PYTHON-blue.svg?style=for-the-badge&logo=python">
-<img title="go" src="https://img.shields.io/badge/EVANGELISTA-GOLANF-blue.svg?style=for-the-badge&logo=go">
-<img title="javascript" src="https://img.shields.io/badge/EVANGELISTA-javascript-blue.svg?style=for-the-badge&logo=javascript">
+
+    <img title="HTML" src="https://img.shields.io/badge/HTML-blue.svg?style=for-the-badge&logo=HTML">
+    
+    <img title="python" src="https://img.shields.io/badge/EVANGELISTA-PYTHON-blue.svg?style=for-the-badge&logo=python">
+    
+    <img title="go" src="https://img.shields.io/badge/EVANGELISTA-GOLANG-blue.svg?style=for-the-badge&logo=go">
+    
+    <img title="javascript" src="https://img.shields.io/badge/EVANGELISTA-javascript-blue.svg?style=for-the-badge&logo=javascript">
+    
 
 
 
