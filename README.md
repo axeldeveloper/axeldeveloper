@@ -25,14 +25,14 @@ Would you like to find me?
 
 
 <p align="center">
-    <a href="https://github.com/axeldeveloper"><img title="Linkedin" src="https://img.shields.io/badge/LINKDIN-AXEL-blue.svg?style=for-the-badge&logo=linkedin"></a>
+    <a href="https://www.linkedin.com/in/axeldeveloper/"><img title="Linkedin" src="https://img.shields.io/badge/LINKDIN-AXEL-blue.svg?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 
 
 💻 Love Technology
 
-  <img title="HTML" src="https://img.shields.io/badge/HTML-blue.svg?style=for-the-badge&logo=html">
+  <img title="HTML" src="https://img.shields.io/badge/HTML-blue.svg?style=for-the-badge&logo=HTML">
     
   <img title="python" src="https://img.shields.io/badge/PYTHON-blue.svg?style=for-the-badge&logo=python">
     
