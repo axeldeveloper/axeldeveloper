@@ -41,7 +41,10 @@ Would you like to find me?
   <img title="javascript" src="https://img.shields.io/badge/javascript-blue.svg?style=for-the-badge&logo=javascript">
     
   <img title="C#" src="https://img.shields.io/badge/csharp-blue.svg?style=for-the-badge&logo=csharp">
-
+  
+  <img title="ruby" src="https://img.shields.io/badge/ruby-red.svg?style=for-the-badge&logo=ruby">
+  
+  <img title="oracle" src="https://img.shields.io/badge/oracle-red.svg?style=for-the-badge&logo=oracle">
 
 🚀 Skills:
 
