@@ -41,7 +41,7 @@ Would you like to find me?
     <th class="tg-0pky"><img title="javascript" src="https://img.shields.io/badge/javascript-blue.svg?style=for-the-badge&logo=javascript"></th>
     <th class="tg-0pky"><img title="react" src="https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react"></th>
     <th class="tg-0pky"><img title="vue" src="https://img.shields.io/badge/vue-greem.svg?style=for-the-badge&logo=vue"></th>
-    <th class="tg-0pky"><img title="vue" src=" https://img.shields.io/badge/nodejs-purple.svg?style=for-the-badge&logo=nodejs"></th>    
+    <th class="tg-0pky"><img title="vue" src="https://img.shields.io/badge/nodejs-purple.svg?style=for-the-badge&logo=nodejs"></th>    
   </tr>
 </thead>
 <tbody>
@@ -51,8 +51,8 @@ Would you like to find me?
     <td class="tg-0pky"><img title="python" src="https://img.shields.io/badge/PYTHON-yellow.svg?style=for-the-badge&logo=python"></td>
     <td class="tg-0pky"><img title="ruby" src="https://img.shields.io/badge/ruby-red.svg?style=for-the-badge&logo=ruby"></td>
     <td class="tg-0pky"><img title="go" src="https://img.shields.io/badge/GOLANG-green.svg?style=for-the-badge&logo=go"></td>
-    <td class="tg-0pky"><img title="php" src=" https://img.shields.io/badge/php-purple.svg?style=for-the-badge&logo=php"></td>
-     
+    <td class="tg-0pky"><img title="php" src="https://img.shields.io/badge/php-purple.svg?style=for-the-badge&logo=php"></td>
+    <td class="tg-0pky"><img title="elixir" src="https://img.shields.io/badge/elixir-purple.svg?style=for-the-badge&logo=elixir"></td>
   </tr>
   <tr>
     <td class="tg-0pky">Database</td>
