@@ -32,19 +32,53 @@ Would you like to find me?
 
 💻 Love Technology
 
-  <img title="html" src="https://img.shields.io/badge/HTML-blue.svg?style=for-the-badge&logo=HTML">
-    
-  <img title="python" src="https://img.shields.io/badge/PYTHON-yellow.svg?style=for-the-badge&logo=python">
-    
-  <img title="go" src="https://img.shields.io/badge/GOLANG-green.svg?style=for-the-badge&logo=go">
-    
-  <img title="javascript" src="https://img.shields.io/badge/javascript-blue.svg?style=for-the-badge&logo=javascript">
-    
-  <img title="csharp" src="https://img.shields.io/badge/csharp-blue.svg?style=for-the-badge&logo=csharp">
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Front</th>
+    <th class="tg-0pky"><img title="html" src="https://img.shields.io/badge/HTML-blue.svg?style=for-the-badge&logo=HTML"></th>
+    <th class="tg-0pky">CSS</th>
+    <th class="tg-0pky"><img title="javascript" src="https://img.shields.io/badge/javascript-blue.svg?style=for-the-badge&logo=javascript"></th>
+    <th class="tg-0pky">React</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Back</td>
+    <td class="tg-0pky"><img title="csharp" src="https://img.shields.io/badge/csharp-blue.svg?style=for-the-badge&logo=csharp">#</td>
+    <td class="tg-0pky"><img title="python" src="https://img.shields.io/badge/PYTHON-yellow.svg?style=for-the-badge&logo=python"></td>
+    <td class="tg-0pky"><img title="ruby" src="https://img.shields.io/badge/ruby-red.svg?style=for-the-badge&logo=ruby"></td>
+    <td class="tg-0pky"><img title="go" src="https://img.shields.io/badge/GOLANG-green.svg?style=for-the-badge&logo=go"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Database</td>
+    <td class="tg-0pky"><img title="mysql" src="https://img.shields.io/badge/mysql-blue.svg?style=for-the-badge&logo=mysql"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
+
   
-  <img title="ruby" src="https://img.shields.io/badge/ruby-red.svg?style=for-the-badge&logo=ruby">
+    
   
-  <img title="oracle" src="https://img.shields.io/badge/oracle-red.svg?style=for-the-badge&logo=oracle">
+    
+  
+    
+
+    
+  
+
+  
+
 
 🚀 Skills:
 
