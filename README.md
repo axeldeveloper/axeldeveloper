@@ -45,7 +45,7 @@ Would you like to find me?
 <tbody>
   <tr>
     <td class="tg-0pky">Back</td>
-    <td class="tg-0pky"><img title="csharp" src="https://img.shields.io/badge/csharp-blue.svg?style=for-the-badge&logo=csharp">#</td>
+    <td class="tg-0pky"><img title="csharp" src="https://img.shields.io/badge/csharp-blue.svg?style=for-the-badge&logo=csharp"></td>
     <td class="tg-0pky"><img title="python" src="https://img.shields.io/badge/PYTHON-yellow.svg?style=for-the-badge&logo=python"></td>
     <td class="tg-0pky"><img title="ruby" src="https://img.shields.io/badge/ruby-red.svg?style=for-the-badge&logo=ruby"></td>
     <td class="tg-0pky"><img title="go" src="https://img.shields.io/badge/GOLANG-green.svg?style=for-the-badge&logo=go"></td>
@@ -53,9 +53,9 @@ Would you like to find me?
   <tr>
     <td class="tg-0pky">Database</td>
     <td class="tg-0pky"><img title="mysql" src="https://img.shields.io/badge/mysql-blue.svg?style=for-the-badge&logo=mysql"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><img title="oracle" src="https://img.shields.io/badge/oracle-red.svg?style=for-the-badge&logo=oracle"></td>
+    <td class="tg-0pky"><img title="mongodb" src="https://img.shields.io/badge/mongodb-red.svg?style=for-the-badge&logo=mongodb"></td>
+    <td class="tg-0pky"><img title="postgressql" src="https://img.shields.io/badge/postgressql-red.svg?style=for-the-badge&logo=postgressql"></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
@@ -67,19 +67,7 @@ Would you like to find me?
 </tbody>
 </table>
 
-  
-    
-  
-    
-  
-    
-
-    
-  
-
-  
-
-
+ 
 🚀 Skills:
 
 
