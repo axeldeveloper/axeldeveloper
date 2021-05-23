@@ -37,9 +37,11 @@ Would you like to find me?
   <tr>
     <th class="tg-0pky">Front</th>
     <th class="tg-0pky"><img title="html" src="https://img.shields.io/badge/HTML-blue.svg?style=for-the-badge&logo=HTML"></th>
-    <th class="tg-0pky">CSS</th>
+    <th class="tg-0pky"><img title="css3" src="https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=css3"></th>
     <th class="tg-0pky"><img title="javascript" src="https://img.shields.io/badge/javascript-blue.svg?style=for-the-badge&logo=javascript"></th>
-    <th class="tg-0pky">React</th>
+    <th class="tg-0pky"><img title="react" src="https://img.shields.io/badge/react-blue.svg?style=for-the-badge&logo=react"></th>
+    <th class="tg-0pky"><img title="vue" src="https://img.shields.io/badge/vue-greem.svg?style=for-the-badge&logo=vue"></th>
+     
   </tr>
 </thead>
 <tbody>
@@ -56,6 +58,9 @@ Would you like to find me?
     <td class="tg-0pky"><img title="oracle" src="https://img.shields.io/badge/oracle-red.svg?style=for-the-badge&logo=oracle"></td>
     <td class="tg-0pky"><img title="mongodb" src="https://img.shields.io/badge/mongodb-red.svg?style=for-the-badge&logo=mongodb"></td>
     <td class="tg-0pky"><img title="postgressql" src="https://img.shields.io/badge/postgressql-red.svg?style=for-the-badge&logo=postgressql"></td>
+    <td class="tg-0pky"><img title="sql server" src="https://img.shields.io/badge/sql-server-red.svg?style=for-the-badge&logo=sql-server"></td>
+    <td class="tg-0pky"><img title="firebase" src="https://img.shields.io/badge/firebaser-red.svg?style=for-the-badge&logo=firebase"></td>
+     
   </tr>
   <tr>
     <td class="tg-0pky"></td>
@@ -70,16 +75,8 @@ Would you like to find me?
  
 🚀 Skills:
 
-
-- HTML
-- CSS
-- Javascript
 - Sass
 - Bootstrap
-- Python
-- Golang
-- Ruby
-- React JS
 - React Native
 - VueJS
 - PHP
