@@ -35,7 +35,7 @@ Would you like to find me?
 <table class="tg">
 <thead>
   <tr>
-    <th style="color:white;padding:35px;" class="tg-0pky">Front</th>
+    <th style="padding:35px;" class="tg-0pky">Front</th>
     <th class="tg-0pky">
       <img style="width: 90px; height: 35px" title="html" src="https://img.shields.io/badge/HTML-blue.svg?style=for-the-badge&logo=HTML">
     </th>
@@ -58,7 +58,7 @@ Would you like to find me?
 </thead>
 <tbody>
   <tr>
-    <td style="color:white;padding:35px;" class="tg-0pky">Back</td>
+    <td style="padding:35px;" class="tg-0pky">Back</td>
     <td class="tg-0pky">
       <img style="width: 90px; height: 35px" title="csharp" src="https://img.shields.io/badge/csharp-blue.svg?style=for-the-badge&logo=csharp"></td>
     <td class="tg-0pky">
@@ -73,7 +73,7 @@ Would you like to find me?
       <img style="width: 90px; height: 35px" title="elixir" src="https://img.shields.io/badge/elixir-purple.svg?style=for-the-badge&logo=elixir"></td>
   </tr>
   <tr>
-    <td style="color:white;padding:35px;" class="tg-0pky">Database</td>
+    <td style="padding:35px;" class="tg-0pky">Database</td>
     <td class="tg-0pky">
       <img style="width: 90px; height: 35px" title="mysql" src="https://img.shields.io/badge/mysql-blue.svg?style=for-the-badge&logo=mariadb"></td>
     <td class="tg-0pky">
